@@ -3,4 +3,4 @@ Repo for code for a project related to data visualization of an IMU, Barometer a
 
 Image of circuitry: 
 
-![Alt text](https://s3-us-west-2.amazonaws.com/datavizproject/IMG_20151019_162019.jpg)
+![Alt text](https://s3-us-west-2.amazonaws.com/datavizproject/IMG_20151019_162019.jpg) 
